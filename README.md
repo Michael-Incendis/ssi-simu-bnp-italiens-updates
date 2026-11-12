@@ -1,19 +1,13 @@
-# SSI SIMU BNP — Italiens — Mises à jour STAGING
+# SSI SIMU BNP — Italien — Mises à jour
 
-Ce dépôt est réservé à la distribution des préversions et mises à jour de recette de **SSI SIMU BNP — Italien** pour Windows x64.
+Ce dépôt public distribue exclusivement les installateurs et mises à jour de **SSI SIMU BNP — Italien** pour Windows 11 x64. Il est distinct de SSI SIMU classique.
 
-Il est distinct du logiciel SSI SIMU classique et de ses canaux de distribution.
+## Version de production 0.2.6
 
-## État au 10 novembre 2026
+- [Télécharger le setup 0.2.6](https://github.com/Michael-Incendis/ssi-simu-bnp-italiens-updates/releases/download/production-v0.2.6/ssi-simu-bnp-italien-production_0.2.6_x64-setup.exe)
+- [Notes, signature et empreintes SHA-256](https://github.com/Michael-Incendis/ssi-simu-bnp-italiens-updates/releases/tag/production-v0.2.6)
+- [Manifeste du canal production](channels/production/latest.json)
 
-La préversion **0.2.1** existe sous forme d'installateur local. Son canal de mise à jour automatique n'est pas encore activé.
+La signature `.sig` est vérifiée par l’updater BNP ; elle est distincte d’une signature Authenticode Windows. La recherche de mises à jour se fait depuis l’application. Une installation nécessite une confirmation utilisateur.
 
-Ce dépôt ne fournit actuellement aucun installateur, aucune release ni aucun manifeste de mise à jour. Il ne constitue pas un canal de téléchargement opérationnel.
-
-## Publications futures
-
-Les publications utiliseront un installateur NSIS Windows x64 accompagné de sa signature updater. Le client devra vérifier la signature avec la clé publique BNP STAGING approuvée avant toute installation.
-
-Le premier client configuré nécessitera un remplacement manuel de la préversion sans canal actif. Les mises à jour suivantes feront l'objet d'une publication contrôlée et d'essais distincts.
-
-Ce dépôt de distribution ne contient pas les sources privées de l'application, les clés privées de signature ni les données de licence. Aucune publication automatique n'est configurée.
+Ce dépôt ne contient aucune source privée de l’application, clé privée de signature ou donnée de licence. Aucun workflow de publication automatique n’est configuré.
