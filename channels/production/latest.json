@@ -1,10 +1,10 @@
 {
-  "version": "0.2.7",
-  "notes": "SSI SIMU BNP — Italien 0.2.7 : suppression de la mention de recette obsolète, sans modification des licences, des scénarios, des Cours ni des mises à jour signées.",
+  "version": "0.2.9",
+  "notes": "SSI SIMU BNP — Italien 0.2.9 : ouverture sur Accueil et contrôle de licence en arrière-plan ; les Cours et Scénarios restent protégés. Installation par compte Windows conservée. Depuis 0.2.8 : mise à jour normale. Depuis 0.2.7 ou une version antérieure : migration administrative préalable, sans effacer les données, puis installation dans la session habituelle. Licence, hors ligne et médias conservés.",
   "platforms": {
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTamQxYnhaV0lBZWw2cjRzT1haZGFaUUZ2R2x0a2Y3bm80bUViczh6MEczaWpOTG5RNG8zdy9xOFFYcWVDN0RNdnpSaWVJMmViOUxXOVZBdVd3Ymp6Qmd4SHZTSzFuK1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDQ0OTE4CWZpbGU6c3NpLXNpbXUtYm5wLWl0YWxpZW4tcHJvZHVjdGlvbl8wLjIuN194NjQtc2V0dXAuZXhlCjlqSHVmeGg3bWYzRkRxOGJnN3BzV3VhM1pOa3U1ODlXaTMxWVlEd3VFZjc1ZElrc3B6YkNQOVJPKzdHWEhqV0J0T1ZGMnJ1WjM1c3N1bG8wd25SSEF3PT0K",
-      "url": "https://github.com/Michael-Incendis/ssi-simu-bnp-italiens-updates/releases/download/production-v0.2.7/ssi-simu-bnp-italien-production_0.2.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTamQxYnhaV0lBZXFxS3BxRUJLcndWdjBtS3RoaVpwSHZtMjFpUXlSZTJGczhlQ0lqbG9pTmM0TU9nMERkTk8rc29Ec3A2WG9JOEtYVk80NE0zaTVTSXZqam56ak5UQ3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDY2NzkxCWZpbGU6c3NpLXNpbXUtYm5wLWl0YWxpZW4tcHJvZHVjdGlvbl8wLjIuOV94NjQtc2V0dXAuZXhlCktuVDhSdktGdDZJeC9CbjNqTk56am5oZ1ViMjl6TVd4NEs2emNVWE5BR2M5dlhYTGx2WDhNVjdEUTNKRWNZSFpqM3hySVZOYVBDTUFWM3A5ZXFhckF3PT0K",
+      "url": "https://github.com/Michael-Incendis/ssi-simu-bnp-italiens-updates/releases/download/production-v0.2.9/ssi-simu-bnp-italien-production_0.2.9_x64-setup.exe"
     }
   }
 }
