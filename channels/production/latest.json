@@ -1,0 +1,10 @@
+{
+  "version": "0.2.6",
+  "notes": "SSI SIMU BNP — Italien 0.2.6 : reprise hors ligne selon la politique contrôlée approuvée.",
+  "platforms": {
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTamQxYnhaV0lBZWdYMmxzaC9NMTM5cWd2dGpscEJXdnc1TEhxekY0b21nMDdJeFh1TDA2Ym9GYXRzYlVPdUN2Si9zMkxsY1FIK2NGbktVY09MaVJ0aG1nTkQ2SVR1ZGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDQyODI1CWZpbGU6c3NpLXNpbXUtYm5wLWl0YWxpZW4tcHJvZHVjdGlvbl8wLjIuNl94NjQtc2V0dXAuZXhlCmczUTA0US9qc0NDQy9idkFCblhKOEpVcVl5aUtZc0poMFVNdlIrN1lZT1BMYzNOaVNaTGx4T0JBdmE1RlJUbmtiWHhHUnhYQXdSeW1pelliNUJDa0RnPT0K",
+      "url": "https://github.com/Michael-Incendis/ssi-simu-bnp-italiens-updates/releases/download/production-v0.2.6/ssi-simu-bnp-italien-production_0.2.6_x64-setup.exe"
+    }
+  }
+}
